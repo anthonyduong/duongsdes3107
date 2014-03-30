@@ -1,3 +1,5 @@
-String s1 = "hello";
-String s2 = "there";
-println(s1); print(s2);
+String s1 = "young money";
+println(s1);
+
+String s2 = "cash money";
+println(s2);

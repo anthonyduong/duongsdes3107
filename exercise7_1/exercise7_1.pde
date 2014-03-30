@@ -1,0 +1,9 @@
+size(500,500);
+smooth();
+noFill();
+beginShape();
+vertex(450,10);
+vertex(140,50);
+vertex(23,95);
+vertex(494,475);
+endShape();
